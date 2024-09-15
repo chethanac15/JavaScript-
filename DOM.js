@@ -1,4 +1,4 @@
-Document object modelling codes
+//Document object modelling codes
 
 document.getElementsbyTagName("li");
 document.getElementsbyLastName("btn");
