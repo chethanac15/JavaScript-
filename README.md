@@ -1,7 +1,7 @@
 Welcome to the JavaScript Programs and Syntax repository! This repository is designed to cater to developers of all skill levels, from beginners who are just getting started with JavaScript to advanced programmers looking to hone their skills and explore more complex concepts.
 
-Contents
-Basic JavaScript Programs
+Contents:
+Basic to advanced JavaScript Programs
 
 Hello World: Simple program to print "Hello, World!" to the console.
 Variables and Data Types: Examples demonstrating the use of different data types and variable declarations.
