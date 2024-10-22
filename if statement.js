@@ -1,4 +1,4 @@
-/*sample example*/
+/*sample example for understanding*/
 if (track==="clear") 
 {
   goStraight();
