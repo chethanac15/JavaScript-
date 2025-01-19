@@ -37,7 +37,7 @@ Date and Time: Working with JavaScript Date objects.
 Math and Numbers: Advanced numerical operations and the Math object.
 
 Contribution
-We welcome contributions! If you have a JavaScript program or concept that you think would benefit others, please feel free to submit a pull request. Before doing so, ensure your code is well-documented and follows the repository's coding standards.
+Open source contributors are Welcomed! If you have a JavaScript program or concept that you think would benefit others, please feel free to submit a pull request. Before doing so, ensure your code is well-documented and follows the repository's coding standards.
 
 Whether you are just starting with JavaScript or looking to deepen your understanding of advanced topics, this repository aims to provide valuable resources and examples to support your learning journey. 
 
